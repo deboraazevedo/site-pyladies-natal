@@ -9,25 +9,54 @@ description: "Site oficial do PyLadies Natal."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Clara Nobre
+  pic: clara
+  position: Cofundadora do PyLadies Brasil/Natal
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/_claranobre
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/claranobre
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+
+- name: Débora Azevedo
+  pic: debora
+  position: Confudadora PyLadies Natal
+  social:
+    - title: twitter
+      url: https://twitter.com/pydebb
+    - title: facebook
+      url: https://www.facebook.com/debora.azevedoo
+
+
+- name: Gabi Cavalcante
+  pic: gabi
+  position: Cofundadora do PyLadies Brasil/Natal
+  social:
+    - title: twitter
+      url: https://twitter.com/_gabiCavalcante
+    - title: facebook
+      url: https://www.facebook.com/gabi.cavalcante.silva
+
+
+- name: Késsia Castro
+  pic: kessia
+  position: Colaboradora do PyLadies Natal
+  social:
+    - title: twitter
+      url: https://twitter.com/kessiacastro
+    - title: facebook
+      url: https://www.facebook.com/kessiacastro
+
+
+- name: Monnaliza Medeiros
+  pic: mona
+  position: Colaboradora do PyLadies Natal
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/monnalizadm
     - title: linkedin
       url: #
 
@@ -39,54 +68,16 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
 
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/PyladiesNatal
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/PyLadiesNatal/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/PyLadiesNatal
 
 # Postal address (add as many lines as necessary)
 address:
